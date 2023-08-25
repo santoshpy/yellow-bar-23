@@ -1,0 +1,14 @@
+{
+  "scaffold": {
+    "type": "react-native",
+    "version": "2.4.0",
+    "cookiecutter_context": {
+      "project_name": "Yellow Bar",
+      "project_slug": "yellow_bar_23",
+      "project_dash_slug": "yellow-bar-23",
+      "project_description": "This react_native application was built with Crowdbotics www.crowdbotics.com",
+      "owner_email": "project_manager@cb-dev.com",
+      "ssh_key_fingerprint": ""
+    }
+  }
+}
